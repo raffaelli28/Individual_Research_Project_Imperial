@@ -6,7 +6,7 @@ This project investigates whether combining clinical time-series data with estab
 
 ### Project Credits
 
-- **Author:** Raffaelli Ispas
+- **Author:** Raffaelli Ionut Bogdan Ispas
 - **Supervisor:** Dr. Ovidiu Serban
 - **Second Marker:** Dr. Francesco Leofante
 - **Clinical Collaborator:** Dr. Mayur Murali
